@@ -1,4 +1,5 @@
-### 👋 👋 👋 👋 👋
+## KIM_MIN_JUN
+### [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mj061101k)](https://solved.ac/mj061101k/)
 
 <!--
 **Qnd1101/Qnd1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
