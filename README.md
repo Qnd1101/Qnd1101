@@ -19,10 +19,8 @@
   </div>  
   
 <div align="center">
-  
-    <a href="https://hits.seeyoufarm.com/%22%3E<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FQnd1101%2F&count_bg=%23D9E4E9&title_bg=%231B191D&icon=pixabay.svg&icon_color=%23D5DBCD&title=%EB%B0%A9+%EB%AC%B8+%EC%9E%90&edge_flat=false%22/%3E</a>
-  
-  </div>  
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FQnd1101%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=chupachups.svg&icon_color=%23E7E7E7&title=방문자&edge_flat=false"/></a>
+</div>  
 
 
 <!--
