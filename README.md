@@ -35,9 +35,23 @@
 </h2>
 
 <div align="center">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=red"/>
+    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+    <br>
  
-
 </div>
+
+<h2 align="center">
+  🤤 Tools 🤤
+</h2>
+
+<div align="center">
+    <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
+</div>
+  
   
 <div align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FQnd1101%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=chupachups.svg&icon_color=%23E7E7E7&title=방문자&edge_flat=false"/></a>
