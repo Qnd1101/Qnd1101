@@ -1,7 +1,7 @@
 
  <h1 align="center">
 
-  Kim Min Jun..
+  Kim Min Jun
 
 </h1>
 
