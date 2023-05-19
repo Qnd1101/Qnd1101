@@ -1,13 +1,13 @@
 
  <h1 align="center">
 
-  Kim Min Jun.
+  Kim Min Jun
 
 </h1>
 
 <div align="center">
 
- ### 안녕하세요 성일정보고등학교 소프트웨어 개발과에 재학중인 김민준 입니다..
+ ### 안녕하세요 성일정보고등학교 소프트웨어 개발과에 재학중인 김민준 입니다.
 
 </div>
 
