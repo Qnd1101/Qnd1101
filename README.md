@@ -14,7 +14,7 @@
 <div align="center">
  
  ## Information
- ### School : 성일정보고등학교(Sungil-Information-Highschool)
+ ### School : 성일정보고등학교(Sungil-Information-Highschool) 
  ### Email : mj061101k@naver.com
  
 </div>
