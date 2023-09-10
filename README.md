@@ -30,21 +30,11 @@
 <div align="center">
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mj061101k)](https://solved.ac/mj061101k/)
-  
-  </div>
-  
-<div align="center">
-  
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qnd1101&layout=compact&theme=tokyonight)
-  
-  </div>
- 
- 
-<div align="center">
-  
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qnd1101&show_icons=true&theme=tokyonight)
-  
-  </div>  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qnd1101&layout=compact&theme=tokyonight)
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Qnd1101)](https://wakatime.com/@Qnd1101)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qnd1101&show_icons=true&theme=tokyonight)
+</div>
+
  
  <h2 align="center">
   🤤 Skills 🤤
