@@ -31,11 +31,6 @@
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mj061101k)](https://solved.ac/mj061101k/)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qnd1101&layout=compact&theme=tokyonight)
-  
- <!--START_SECTION:waka-->
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Qnd1101)](https://wakatime.com/@Qnd1101)
-<!--END_SECTION:waka-->
-
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qnd1101&show_icons=true&theme=tokyonight)
 </div>
 
