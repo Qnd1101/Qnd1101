@@ -22,8 +22,8 @@
 
 <div align="center">
  
- ## 학교에서 공부하는 것 등등 정리 하는 곳
- ### [Notion Link](https://minjun11.notion.site/096a00f2557e4a7a86507f7997c8af8b?pvs=4)
+ ## 노션 링크
+ ### [학교에서 배우는 내용 정리 하는 곳(노션 링크)](https://minjun11.notion.site/096a00f2557e4a7a86507f7997c8af8b?pvs=4)
  
 </div>
 
