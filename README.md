@@ -15,8 +15,15 @@
  
  ## Information
  ### School : 성일정보고등학교(Sungil-Information-Highschool) 
+ ### Email : mj061101k@naver.com
+ 
+</div>
+
+
+<div align="center">
+ 
+ ## 학교에서 공부하는 것 등등 정리 하는 곳
  ### [Notion Link](https://minjun11.notion.site/096a00f2557e4a7a86507f7997c8af8b?pvs=4)
-  ### Email : mj061101k@naver.com
  
 </div>
 
