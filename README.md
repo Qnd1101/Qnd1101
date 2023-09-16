@@ -21,11 +21,7 @@
 
 <div>
   
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mj061101k)](https://solved.ac/mj061101k/)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qnd1101&layout=compact&theme=tokyonight)
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qnd1101&show_icons=true&theme=tokyonight)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mj061101k)](https://solved.ac/mj061101k/) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qnd1101&layout=compact&theme=tokyonight) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qnd1101&show_icons=true&theme=tokyonight)
 </div>
 
  
@@ -39,13 +35,17 @@
     <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
     <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
     <br>
-     <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
 ### Famework
+<div>
+  <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
+</div>
 
-<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"/> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
 
 ## Visit
   
