@@ -10,6 +10,7 @@
 | 이메일 | Email : mj061101k@naver.com |
 | 노션 | [학교에서 배우는 내용 정리 하는 곳(노션 링크)](https://minjun11.notion.site/096a00f2557e4a7a86507f7997c8af8b?pvs=4) |
 | 대회 | 2023.04.03~ 2023.04.05 : 2023-기능경기대회-클라우드 컴퓨팅(참가) |
+| 프로젝트 | [플러터로 만든 일별 파일 저장 프로그램](https://github.com/Qnd1101/flutter_application_diary) |
 
 ## 교내외 활동
 | 기간 | 활동명 | 설명 |
