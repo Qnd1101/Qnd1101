@@ -35,21 +35,21 @@
 | 쇼핑몰 회원관리 프로그램 | https://github.com/Qnd1101/Shoppingmall_Problem_Explanation |
 
 <div>
- 
+  
 ## Status
- 
-</div>
 
+</div>
 
 <div>
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mj061101k)](https://solved.ac/mj061101k/) 
  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qnd1101&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qnd1101&layout=compact&theme=tokyonight)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qnd1101&show_icons=true&theme=tokyonight)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qnd1101&layout=compact&theme=tokyonight)
+  
 </div>
 
  
- <h2>
+<h2>
   🤤 Skills 🤤
 </h2>
 
