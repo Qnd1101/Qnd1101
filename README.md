@@ -25,7 +25,7 @@
 ## 현재 공부 중인 프로젝트
 | 언어 | 링크 |
 | ---- | ---- |
-| Spring | [인프런 강의를 통해서 스프링 입문](https://github.com/Qnd1101/inflearn_spring_lecture)
+| Spring | [인프런 스프링 강의](https://github.com/Qnd1101/inflearn_spring_lecture)
 
 ## 산업기사 문제풀이
 | 문제명 | 링크 |
