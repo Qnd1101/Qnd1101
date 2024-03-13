@@ -33,6 +33,8 @@
 | 쇼핑몰 회원관리 프로그램 | https://github.com/Qnd1101/Shoppingmall_Problem_Explanation |
 | 지역구의원투표 프로그램 | https://github.com/Qnd1101/vote_program |
 | 백신예약 프로그램 | https://github.com/Qnd1101/vaccine_web |
+| 진단검사 프로그램 | https://github.com/Qnd1101/diagnostic_test_web |
+| 골프연습장 회원관리 프로그램 | https://github.com/Qnd1101/golf_member_management_program
 
 <div>
   
