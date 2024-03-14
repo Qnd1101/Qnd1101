@@ -23,8 +23,8 @@
 ## study
 | 언어 | 링크 |
 | ---- | ---- |
-| Spring | [인프런 스프링 강의](https://github.com/Qnd1101/inflearn_spring_lecture)
 | Java | [알고리즘](https://github.com/Qnd1101/Algorithm)
+| Spring | [인프런 스프링 강의](https://github.com/Qnd1101/inflearn_spring_lecture)
 | Flutter | [일별 박스오피스 프로그램](https://github.com/Qnd1101/flutter_application_kobis)
 | Flutter | [타이머, 난수 발생 프로그램](https://github.com/Qnd1101/flutter_application_portfolio)
 | Flutter | [원하는 날짜 급식 정보 프로그램](https://github.com/Qnd1101/flutter_application_meals)
