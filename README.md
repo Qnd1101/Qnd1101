@@ -25,6 +25,7 @@
 | ---- | ---- |
 | Spring | [인프런 스프링 강의](https://github.com/Qnd1101/inflearn_spring_lecture)
 | Java | [알고리즘](https://github.com/Qnd1101/Algorithm)
+| Flutter | [원하는 날짜 급식 정보 프로그램](https://github.com/Qnd1101/flutter_application_meals)
 | Flutter | [일별 박스오피스 프로그램](https://github.com/Qnd1101/flutter_application_kobis)
 | Flutter | [다이어리 프로그램](https://github.com/Qnd1101/flutter_application_diary/tree/main)
 
