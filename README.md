@@ -6,9 +6,10 @@
 | ---- | ---- |
 | 학교 | 성일정보고등학교(소프트웨어 개발과) |
 | 이메일 | Email : mj061101k@naver.com |
-| 노션 | [학교에서 배우는 내용 정리 하는 곳(노션 링크)](https://minjun11.notion.site/096a00f2557e4a7a86507f7997c8af8b?pvs=4) |
+| 노션 | [포트폴리오(노션 링크)](https://minjun11.notion.site/096a00f2557e4a7a86507f7997c8af8b?pvs=4) |
 | 대회 | 2023.04.03~ 2023.04.05 : 2023-기능경기대회-클라우드 컴퓨팅(참가) |
-## 교내외 활동
+
+## career
 | 기간 | 활동명 | 설명 |
 | ---- | ---- | ----- |
 | 2022.06.03 ~ 2023.01 | 성일정보고등학교 개발스터디(SSS) | 게임개발 멘티 |
@@ -18,7 +19,7 @@
 | 2023.01.16 ~ 2023.02.01 | 자바-중급반 | JavaFx를 이용한 다양한 프로그램 개발 |
 | 2023.03.20 ~ 2023.03.31 | 기능경기대회 준비 | 클라우드컴퓨팅 기능대회 준비 |
 | 2023.03 ~ 현재 | 프로그래머스 동아리 | 코딩테스트 문제 풀이 |
-| 2023.04.04 ~ 현재 | 앱개발 방과후 | 플러터를 이용한 앱 개발 |
+| 2023.04.04 ~ 2023.11.29 | 앱개발 방과후 | 플러터를 이용한 앱 개발 |
 
 ## study
 | 언어 | 링크 |
@@ -30,14 +31,14 @@
 | Flutter | [원하는 날짜 급식 정보 프로그램](https://github.com/Qnd1101/flutter_application_meals)
 | Flutter | [다이어리 프로그램](https://github.com/Qnd1101/flutter_application_diary/tree/main)
 
-## 산업기사 문제풀이
+## 정보처리 산업기사(과정평가형) 실기 문제풀이
 | 문제명 | 링크 |
 | ---- | ---- |
 | 쇼핑몰 회원관리 프로그램 | https://github.com/Qnd1101/Shoppingmall_Problem_Explanation |
 | 지역구의원투표 프로그램 | https://github.com/Qnd1101/vote_program |
 | 백신예약 프로그램 | https://github.com/Qnd1101/vaccine_web |
 | 진단검사 프로그램 | https://github.com/Qnd1101/diagnostic_test_web |
-| 골프연습장 회원관리 프로그램 | https://github.com/Qnd1101/golf_member_management_program
+| 골프연습장 회원관리 프로그램 | https://github.com/Qnd1101/golf_member_management_program |
 
 <div>
   
